@@ -1,8 +1,8 @@
-📘 Project Title:
+**📘 Project Title:**
 Product Performance and Characteristics Dashboard
 (For GD Powder and NY Talc – FY2023 Q1 & Q2)
 
-🎯 Objective:
+**🎯 Objective:**
 The purpose of this Power BI dashboard is to provide a comprehensive visual analysis of two key products — GD Powder and NY Talc — focusing on their:
 
 Performance metrics (ROAR Score, Achievement %, Merchandising)
@@ -13,7 +13,7 @@ Quarter-over-quarter comparison (Q1 vs Q2 FY2023)
 
 This dashboard helps stakeholders make data-driven decisions on product strategy, sustainability alignment, and field execution.
 
-📊 Key Metrics Analyzed:
+**📊 Key Metrics Analyzed:**
 ROAR Score – Measures product quality and customer satisfaction.
 
 % ECO Achievement – Represents ecological compliance and sustainability efforts.
@@ -24,12 +24,12 @@ Depth & Width of Archival – Indicates how well products are distributed and st
 
 Target Achievement % – Compares actual vs expected performance.
 
-📁 Data Sources:
+**📁 Data Sources:**
 Excel workbooks for Q1 (March 2023) and Q2 (June 2023) performance.
 
 Combined, cleaned, and transformed in Power BI using Power Query Editor.
 
-🎨 Dashboard Highlights:
+**🎨 Dashboard Highlights:**
 KPI Cards: Quick view of key metrics by product and quarter.
 
 Conditional Formatting: Green-yellow-red color scale for intuitive performance interpretation.
@@ -42,7 +42,7 @@ Dynamic Slicers: Filter data by Product, Quarter, Area, or Channel.
 
 Clean Layout & UX: Grid-based design using background panels, icons, and theme colors for a professional finish.
 
-🧠 Business Impact:
+**🧠 Business Impact:**
 Enables quick identification of underperforming products or regions
 
 Assesses sustainability performance through ECO & ROAR tracking
@@ -51,7 +51,7 @@ Supports strategic planning and execution optimization
 
 Improves visibility and merchandising analysis
 
-🔧 Tools Used:
+**🔧 Tools Used:**
 Power BI Desktop
 
 Power Query for data cleaning
